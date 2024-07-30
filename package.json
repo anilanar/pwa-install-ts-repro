@@ -1,0 +1,15 @@
+{
+  "name": "pwa-install-ts-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@khmyznikov/pwa-install": "^0.4.3"
+  }
+}
